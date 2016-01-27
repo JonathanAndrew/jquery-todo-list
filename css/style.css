@@ -1,0 +1,47 @@
+
+#name-form{
+	width: 300px;
+	margin: 0 auto;
+	font-size: 2em;
+}
+#delete{
+	font-size: 1.5em;
+	font-weight: bold;
+}
+input{
+	width:300px;
+	margin: 0 auto;
+	font-size: 1em;
+}
+
+#list{
+	max-width: 400px; 
+	min-height: 500px;
+	height: auto;
+	margin: 0 auto;
+	border: 5px groove #002244;
+}
+
+h2{
+	width: 300px;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 2em;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+
+
+li{
+	font-size: 1.5em;
+	color: #000000;
+	word-wrap:break-word;
+	font-family: 'Pacifico';
+	max-width: 300px;
+}
+
+ol{
+	max-width: 300px;
+	text-align: left;
+}
